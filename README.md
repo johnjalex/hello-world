@@ -1,2 +1,3 @@
 # hello-world
-a short description
+
+My name is John and I like to code.
